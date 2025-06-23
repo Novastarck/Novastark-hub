@@ -6,11 +6,7 @@
   <title>NovaStark Hub - Wallpapers, Icons, Themes</title>
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
       background: radial-gradient(circle at center, #000 60%, #111 100%);
